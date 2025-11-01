@@ -118,7 +118,8 @@ app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
 */
-//or (below one)
+//or (below one) 
 app.listen(3000, () => {
   console.log(`🚀 Server running on http://localhost:3000`);
+
 });
